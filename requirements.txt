@@ -1,0 +1,13 @@
+langchain-groq
+langchain-google-genai
+google-generativeai
+langchain_community
+langsmith
+scikit-learn
+faiss-cpu
+pandas
+numpy
+streamlit
+langchain
+python-dotenv
+langchain-text-splitters
